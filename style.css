@@ -2,16 +2,33 @@
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     align-content: center;
     text-align: center;
+    background-color: darkseagreen;
 }
 
 h1 {
     color: black;
 }
 
-a {
+h2 {
+    color: chocolate;
+    margin: 40px;
+}
+
+.mainpage a {
     color: black;
     background-color: bisque;
     font-weight: 500;
+    text-decoration-line: none;
+    padding: 10px;
+    border-color: black;
+    border-width: 10px;
+    margin: 10px;
+}
+
+a {
+    color: black;
+    background-color: aqua;
+    text-decoration-line: none;
 }
 
 .lasagnaclass  {
